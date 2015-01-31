@@ -1,0 +1,9 @@
+*~
+*.pyc
+*.pyo
+*.so
+*.pypp.txt
+build
+__array_1.pypp.hpp
+mylib.cpp
+named_tuple.py
